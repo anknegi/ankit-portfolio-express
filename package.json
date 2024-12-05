@@ -1,0 +1,19 @@
+{
+  "name": "ankit-portfolio-express",
+  "version": "1.0.0",
+  "description": "A restful api for ankit portfolio data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Negi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.3",
+    "validator": "^13.12.0"
+  }
+}
